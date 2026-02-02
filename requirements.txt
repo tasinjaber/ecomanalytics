@@ -1,0 +1,16 @@
+firebolt-sdk
+Faker
+streamlit
+pandas
+altair
+plotly
+streamlit-aggrid
+numpy
+scikit-learn
+openpyxl
+fastapi
+uvicorn
+APScheduler
+bcrypt
+
+

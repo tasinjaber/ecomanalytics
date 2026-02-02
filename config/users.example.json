@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password_bcrypt": "$2b$12$REPLACE_ME_WITH_BCRYPT_HASH",
+      "role": "Admin"
+    },
+    {
+      "username": "analyst",
+      "password_bcrypt": "$2b$12$REPLACE_ME_WITH_BCRYPT_HASH",
+      "role": "Analyst"
+    },
+    {
+      "username": "viewer",
+      "password_bcrypt": "$2b$12$REPLACE_ME_WITH_BCRYPT_HASH",
+      "role": "Viewer"
+    }
+  ]
+}
+
+

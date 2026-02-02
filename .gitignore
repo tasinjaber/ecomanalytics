@@ -1,0 +1,38 @@
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Local env files (keep secrets out of git)
+.env
+.env.local
+
+# Local auth config (keep passwords out of git)
+config/users.json
+
+# Frontend build artifacts
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dataset files (optional - uncomment if you don't want to track large CSVs)
+# dataset/*.csv
+# dataset/*.xlsx
+
+# Reports (optional - uncomment if you don't want to track generated reports)
+# report/*.html
+
+

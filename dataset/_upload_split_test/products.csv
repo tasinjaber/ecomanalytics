@@ -1,0 +1,26 @@
+product_id,product_name,category,price
+1001,Nova X1 128GB 5G,Smartphone,399
+1002,Aurora S9 256GB 5G,Smartphone,699
+1003,Aurora S9 Pro 512GB 5G,Smartphone,899
+1101,ZenBook Air 13 (i5/16GB/512GB),Laptop,899
+1102,CreatorBook 15 (i7/32GB/1TB),Laptop,1499
+1201,TabGo 10.9 128GB Wi‑Fi,Tablet,329
+1301,PulseWatch 4,Wearable,149
+1302,PulseWatch 4 Pro,Wearable,229
+1401,SoundPods Mini,Audio,29
+1402,SoundPods ANC,Audio,99
+1403,OverEar Studio ANC,Audio,179
+1501,USB‑C Fast Charger 30W,Accessory,19
+1502,USB‑C Fast Charger 65W,Accessory,39
+1503,USB‑C Cable (1m),Accessory,9
+1504,Wireless Charger Pad 15W,Accessory,29
+1505,"Power Bank 10,000mAh",Accessory,25
+1510,Bluetooth Mouse,Accessory,17
+1511,Mechanical Keyboard (TKL),Accessory,79
+1601,SSD Portable 1TB USB‑C,Storage,89
+1701,Wi‑Fi 6 Router AX1800,Networking,59
+1801,Smart Plug Mini,Smart Home,12
+1804,Indoor Camera 1080p,Smart Home,29
+1901,GamePad Wireless Controller,Gaming,39
+1902,Gaming Headset,Gaming,49
+2001,ActionCam 4K,Camera,99

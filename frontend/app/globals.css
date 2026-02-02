@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: radial-gradient(1200px 700px at 20% 0%, rgba(124, 92, 255, 0.22), transparent 55%),
+    radial-gradient(1200px 700px at 80% 10%, rgba(0, 212, 255, 0.18), transparent 50%),
+    linear-gradient(180deg, #06080f 0%, #06080f 100%);
+  color: #eef2ff;
+}
+
+.grid-bg {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+  background-size: 56px 56px;
+  background-position: center;
+  mask-image: radial-gradient(closest-side, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}
+
+
+
+
